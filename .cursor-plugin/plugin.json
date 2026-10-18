@@ -1,0 +1,11 @@
+{
+  "name": "sally-sold",
+  "description": "Create, send and track invoices with Sally Sold from your agent. Bill a client, copy last month's invoice, mark it paid, and get a PDF link.",
+  "version": "1.0.0",
+  "author": { "name": "Sally Sold" },
+  "homepage": "https://sallysold.com",
+  "repository": "https://github.com/jamieafk/sallysold-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["invoices", "invoicing", "billing", "freelance", "pdf"],
+  "logo": "assets/logo.png"
+}

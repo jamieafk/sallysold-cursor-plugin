@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "sally-sold": {
+      "url": "https://sallysold.com/api/mcp"
+    }
+  }
+}
